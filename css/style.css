@@ -1,0 +1,17 @@
+.spinner-div{
+    height: 100vh;
+}
+.linear{
+    width: 300px;
+    height: 150px;
+    border: 3px solid red;
+    margin-top: 20px;
+    background-image: linear-gradient(to right,yellow,skyblue);
+}
+.radial{
+    width: 300px;
+    height: 150px;
+    border: 3px solid pink;
+    margin-top: 20px;
+    background-image: radial-gradient(red,blue,skyblue);
+}
